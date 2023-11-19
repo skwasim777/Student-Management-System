@@ -55,4 +55,7 @@ Feel free to contribute to the project and make it even better!
 
 ![App Screenshot](![Screenshot (193)](https://github.com/skwasim777/Student-Management-System/assets/115621895/e53a7cbf-ab66-45a7-9457-c61b4d7a3ce5)
 g)
+![App Screenshot](![Screenshot (194)](https://github.com/skwasim777/Student-Management-System/assets/115621895/c86d4085-94db-4b19-a2e8-c68b1e818696)
+)
+g)
 
