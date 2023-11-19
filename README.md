@@ -53,5 +53,6 @@ Feel free to contribute to the project and make it even better!
 - Wasim Shaikh(Java Developer)
 ## Screenshots
 
-![App Screenshot](/student-management-web-app/src/main/resources/static/Screenshot%20(193).png)
+![App Screenshot](![Screenshot (193)](https://github.com/skwasim777/Student-Management-System/assets/115621895/e53a7cbf-ab66-45a7-9457-c61b4d7a3ce5)
+g)
 
